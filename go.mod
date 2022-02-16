@@ -1,4 +1,4 @@
-module solution
+module github.com/AliakseiShybeka/golang-united-school-homework-1
 
 go 1.17
 
